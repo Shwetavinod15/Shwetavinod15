@@ -4,7 +4,7 @@
  
 <img  align='right' src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" width="350px">
  
-## About Me 🚀 
+** About Me** 🚀 
  
 🎓 Master of Science in Business Analytics and Information Systems @ **University of South Florida**
  
