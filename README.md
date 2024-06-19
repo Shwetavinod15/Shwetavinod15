@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi👋,+I'm+Shweta+Kulkarni" alt="Typing SVG">
 </div>
 
-<h3 align="center">Welcome to my GitHub profile! I'm an outcome-focused expert with 5 years of experience in Data Analytics and Engineering, driven by data. Skilled in crafting, constructing, and fine-tuning data pipelines to enhance the effectiveness of extraction, transformation, and loading (ETL) procedures. Led 2 projects with cross-functional teams. Proven track record leading teams to deliver impactful projects on time and within budget.</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm an outcome-focused expert with 5 years of experience in Data Analytics and Engineering, driven by data. Skilled in crafting, constructing, and fine-tuning data pipelines to enhance the effectiveness of extraction, transformation, and loading (ETL) procedures. </h3>
 
 <br><br>
 
@@ -59,7 +59,7 @@
 
 <br/>
 <p align="left">
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>&nbsp;&nbsp;
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 
