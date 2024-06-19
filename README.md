@@ -23,10 +23,6 @@
 🌱 Always eager to learn and explore **new technologies**
  
 📫 How to reach me **kulkarnishwetavinod@gmail.com**
- 
-📄 Know about my experiences **My Resume**
- 
-⚡ Fun fact **I am Funny**
 
 📄 To view my porfolio [https://shwetavinod15.github.io/Portfolio-Website/](https://shwetavinod15.github.io/Portfolio-Website/#)
 
