@@ -9,7 +9,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 <h3>About Me 🚀</h3>
-🎓 Master of Science in Business Analytics and Information Systems @ **University of South Florida**
+
+🎓 Masters in Business Analytics and Information Systems @ **University of South Florida**
 
 💼 Graduate Research Assistant @ **University of South Florida**
 
@@ -30,10 +31,6 @@
 📄 To view my porfolio [https://shwetavinod15.github.io/Portfolio-Website/](https://shwetavinod15.github.io/Portfolio-Website/#)
 
 👨‍💻 All of my projects are available at [https://github.com/shwetavinod15](https://github.com/shwetavinod15)
-
-📄 Know about my experiences **My Resume**
-
-⚡ Fun fact **I am Funny**
 
 <br/>
 
