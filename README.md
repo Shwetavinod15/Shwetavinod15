@@ -24,9 +24,9 @@
  
 📫 How to reach me **kulkarnishwetavinod@gmail.com**
 
-📄 To view my porfolio [https://shwetavinod15.github.io/Portfolio-Website/](https://shwetavinod15.github.io/Portfolio-Website/#)
+📄 To view my [Porfolio](https://shwetavinod15.github.io/Portfolio-Website/#)
 
-👨‍💻 All of my projects are available at [https://github.com/shwetavinod15](https://github.com/shwetavinod15)
+👨‍💻 All of my projects are available at [Project Repositories](https://github.com/Shwetavinod15?tab=repositories)
 
 <br/>
 
