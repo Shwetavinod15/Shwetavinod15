@@ -14,7 +14,7 @@
 
 💼 Graduate Research Assistant @ **University of South Florida**
 
-🔭 I’m currently working on **Doc2Vec and Word2Vec machine learning research**
+🔭 I’m currently working on **Dashboard for Cyberflorida State Government Employees**
  
 💻 Data Engineer/Analyst @ **Deloitte**
  
@@ -73,6 +73,6 @@
 
 <br/>
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shwetavinod15&&theme=tokyonight" alt="shwetavinod15" /></p> 
+
 
 
