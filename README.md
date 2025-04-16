@@ -1,6 +1,9 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi👋,+I'm+Shweta+Kulkarni" alt="Typing SVG">
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi!%2C+I'm+Shweta+Kulkarni;Data+Engineer+%7C+Data+Analyst+%7C+BI+Specialist;Driven+by+Data+and+Impactful+Execution;Building+Scalable+Pipelines+%26+ETL+Solutions;Empowering+Decisions+with+Data+Visualization;Transforming+Insights+into+Business+Growth;Tableau%2C+Power+BI%2C+AWS%2C+SQL%2C+Python;Let's+Build+Something+Awesome+Together!" alt="Typing SVG" />
+  </a>
+</p>
+
 
 <h3 align="center">Welcome to my GitHub profile! I'm an outcome-focused expert with 5 years of experience in Data Analytics and Engineering, driven by data. Skilled in crafting, constructing, and fine-tuning data pipelines to enhance the effectiveness of extraction, transformation, and loading (ETL) procedures. </h3>
 
