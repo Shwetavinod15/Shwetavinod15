@@ -15,15 +15,15 @@
 
 <h3>About Me 🚀</h3>
 
-🎓 Masters in Business Analytics and Information Systems @ **University of South Florida**
+🎓 Masters in Business Analytics and Information Systems @**University of South Florida**
 
-💼 Graduate Research Assistant @ **University of South Florida**
+💼 Graduate Research Assistant @**University of South Florida**
 
 🔭 I’m currently working on **Dashboard for Cyberflorida State Government Employees**
  
-💻 Data Engineer/Analyst @ **Deloitte**
+💻 Data Engineer/Analyst @**Deloitte**
  
-💻 Data Engineer/Analyst @ **Tata Consultancy Services**
+💻 Data Engineer/Analyst @**Tata Consultancy Services**
  
 🌱 Always eager to learn and explore **new technologies**
  
